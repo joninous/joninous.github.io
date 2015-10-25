@@ -1,6 +1,6 @@
 timezone: Europe/Helsinki
 
-permalink: /blog/:year/:month/:day/:title.html
+permalink: /blog/:categories/:year/:month/:day/:title.html
 
 defaults:
   -
