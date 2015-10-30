@@ -41,15 +41,17 @@ Oma ruokavalioni ei ole nykyisin lähelläkään täydellistä. Jääkaapista ja
 
 Myös kasvisten joukosta löytyy enemmän tai vähemmän ympäristöystävällisiä vaihtoehtoja. Esimerkkejä: Riisin tuottaminen aiheuttaa huomattavasti enemmän metaanipäästöjä kuin muiden viljojen. Lähiruoan suosiminen on pääasiassa hyvä asia, mutta talvella kasvihuoneissa kasvatettujen vihannesten hiilijalanjälki on suuri (esim. kotimainen vs. espanjalainen kurkku). Vesiahneen mantelin kasvatus kuivuudesta kärsivässä Kaliforniassa on kyseenalaista. Itse pyrin huomioimaan em. mahdollisuuksien mukaan. Esim. kotiin en osta riisiä ollenkaan, ja lounaallakin sen voi usein korvata vaikkapa perunalla.
 
+Lisätietoja (lähteineen) löytyy mm. [Iltasto-opas.fi-sivustolta](https://ilmasto-opas.fi/fi/ilmastonmuutos/hillinta/-/artikkeli/ab196e68-c632-4bef-86f3-18b5ce91d655/ilmastomyotainen-ruoka.html).
+
 ### Terveydelliset syyt
 
-Rasvojen laatu (tyydyttyneet vs. tyydyttämättömät) ja määrä
+Kasvispainotteinen ruokavalio sisältää luonnostaan enemmän terveellisiä tyydyttymättömiä rasvoja ja vähemmän "pahaa" kolesterolia. Kasviksista saa myös paljon kuituja, joilla on [useita terveyttä edistäviä vaikutuksia](http://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=skr00013). Em. pienentävät sydän- ja verisuonitauteihin sekä kakkostyypin diabetekseen sairastumisen riskiä.
 
-Vitamiinit ja hivenaineet
+Monipuolista kasvisruokavaliota noudattaen ja lihansyöntiä vähentäen ihminen [saa useimpia vitamiineja ja hivenaineita runsaammin](http://www.ruokatieto.fi/uutiset/reheva-kasvisruokavalio-hyvaksi-terveydelle-ja-ymparistolle). Kasviksista saa paljon mm. "enemmän C- ja E-vitamiinia, magnesiumia ja kaliumia sekä useita biokemiallisia yhdisteitä kuten flavonoideja ja karoteeneja".
 
-Syöpäriski
+Kalan pitämistä ruokavaliossa kasvisten rinnalla puoltaa sen lukuisat [terveyshyödyt](http://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=skr00072&p_haku=100%20kysymyst%C3%A4%20ravinnosta). Kaloista saatavasta rasvasta isompi osa on terveellisempää tyydyttymätöntä tyyppiä. Kaloista saa myös paljon D-vitaamina ja proteiinia. Kaloihin kertyvien ympäristömyrkkyjen vuoksi kalansyönnin kanssa ei kuitenkaan kannata mennä överiksi.
 
-Kalojen terveydellisyys
+Runsaan punaisen ja prosessoidun lihan syönnin on todettu lisäävän [suolisto- ja muiden ruoansulatuselimistöön liittyvien syöpien riskiä](http://www.hs.fi/ruoka/a1305913013094). Riskiä voi toki pienentää jo lihansyöntiä vähentämällä vaikkei lihaa kokonaan ruokavaliostaan pois jättäisikään.
 
 ### Eettiset syyt
 
@@ -61,12 +63,16 @@ En syö nisäkkäitä tai lintuja, jotka on kasvatettu yksinomaan ihmisen ravinn
 
 Kala on myös lihaa, joten kalan syöminen on lihan syömistä, tätä en voi kiistää. Paitsi että noudatan WWF:n kalaoppaan suosituksia pyrin myös syömään lähinnä villinä eläneitä kaloja. Tämän periaatteen mukaisesti mm. suomalaiset järvikalat kuten ahven, hauki ja kuha ovat parempi valinta kuin kasvatettu lohi. Ehkä kaloja on helpompi syödä kuin nisäkkäitä ja lintuja osittain myös siksi, että ne muistuttavat vähemmän ihmistä. Kalansyömiseen liittyy kuitenkin samoja eettisiä ongelmia kuin lihansyömiseen yleisesti ottaen. Tästä syystä olen viime aikoina pohtinut kalansyömisen vähentämistä ja myös sen lopettaminen kokonaan voi tulla kyseeseen pidemmällä aikavälillä.
 
-Muiden eläinperäisten tuotteiden syömistä perustelen itselleni [kana ja sika -sadun](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig) tyyppisellä asettelulla: eläinten tuottamien aineiden hyödyntäminen ravinnnoksi ei suoraan vaadi eläimen tappamista, toisin kuin lihantuotanto. Monet lihantuotantoon liittyvät ongelmat ovat kuitenkin suoraan liitettävissä myös mm. maidon- ja munantuotantoon. Myönnän siis perustelun olevan huteralla pohjalla.
+Muiden eläinperäisten tuotteiden syömistä perustelen itselleni [kana ja sika -sadun](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig) tyyppisellä asettelulla: eläinten tuottamien aineiden hyödyntäminen ravinnnoksi ei suoraan vaadi eläimen tappamista, toisin kuin lihantuotanto. Monet lihantuotantoon liittyvät ongelmat ovat kuitenkin suoraan liitettävissä myös mm. maidon- ja munantuotantoon. Myönnän siis perustelun olevan tältä osin hieman huteralla pohjalla.
 
 Kunnioitan valtavasti [vegaaniruokavalion](http://www.vegaaniliitto.fi/www/fi/tietoa/mika-on-vegaani) mukaan eläviä ihmisiä. Koen, että vegaanius on lähempänä arvojani kuin nykyinen ruokavalioni. Suurin syy siihen, miksi en ole itse vegaani on käytännöllisyys: Lounas- ja illallisravintoloissa on nykyisin melko hyvin tarjolla kasvisvaihtoehtoja, mutta täysin vegaanista ruokaa löytyy hyvin harvoista paikoista. Myös monet kaupan valmiskasvisruoat sisältävät usein esim. maitotuotteita tai kananmunaa.
 
-Ruoan etiikassa vähemmällä huomiolla, ainakin arkisissa keskusteluissa on ihmisten välinen tasa-arvo. Jos kaikki maailman yli seitsemän miljardia ihmistä söisivät saman määrän lihaa kuin mitä itse vielä muutama vuosi sitten söin, olisiko se maapallon kantokyvyn puitteissa kestävällä pohjalla? Ei olisi, kulutamme jo nykyisin resursseja enemmän kuin pitäisi. Kun lasketaan kulutus per peppu, [eniten petrattavaa on meillä länsimaalaisilla](http://www.bbc.com/news/magazine-33133712). (Linkin uutisessa puhutaan kulutuksesta yleisesti, mutta ruoantuotanto on iso osa kulutusta.)
+Ruoan etiikassa vähemmällä huomiolla, ainakin arkisissa keskusteluissa on ihmisten välinen tasa-arvo. Jos kaikki maailman yli seitsemän miljardia ihmistä söisivät saman määrän lihaa kuin mitä itse vielä muutama vuosi sitten söin, olisiko se maapallon kantokyvyn puitteissa kestävällä pohjalla? Vastaus: ei olisi. Kulutamme jo nykyisin resursseja useamman kuin yhden maapallon edestä. Kun lasketaan kulutus per peppu, [eniten petrattavaa on meillä länsimaalaisilla](http://www.bbc.com/news/magazine-33133712). (Linkin uutisessa puhutaan kulutuksesta yleisesti, mutta ruoantuotanto on iso osa kulutusta.)
 
-## Lopuksi: makuasiat
+## Lopuksi
 
-TODO
+Haluan lopuksi todeta, että liha - oli se sitten nautaa, sikaa tai kanaa - maistuu todella hyvältä! Varsinkin kanaruoat olivat ennen minulle mitä suurinta herkkua. Kasvisruokavalioon siirtymistä aloitellessani suurimpia haasteita olikin uusiin makuihin tottuminen. Makuihin tottumista voi helpottaa maustamalla ruokia kuten liharuokia maustaisi. Ruoan tekstuuria on sen sijaan vaikeampi muuttaa, usean kasvisruoan koostumus eroaa paljonkin tutuista liharuoista.
+
+Uusiin makuihin tottuminen vaatii ennakkoluulotonta asennetta ja useita maistelukertoja. Itselleni yksi suurimmista inhokeista ovat olleet erilaiset sienet, en muista että olisin koskaan erityisemmin pitänyt niistä. Vasta aivan viime aikoina olen pikkuhiljaa onnistunut "pääsemään niiden makuun" maistelemalla niitä määrätietoisesti aina silloin tällöin.
+
+Olen hyvän ruoan ystävä, mutta minulle "hyvä ruoka" on paljon enemmän kuin pelkkä makuasia. Ruoka, jota syön on myös arvovalinta: liha voi maistua mainiolta, mutta kun puntarissa toisella puolella painavat sen kestävyys, eettisyys ja terveydellisyys, ei pelkkä hyvä maku enää riitä.
