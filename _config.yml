@@ -8,4 +8,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: "default"
+      layout: "post"
+      author: "joni"
+
+gems:
+  - jekyll-feed
