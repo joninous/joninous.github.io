@@ -69,6 +69,11 @@ Kunnioitan valtavasti [vegaaniruokavalion](http://www.vegaaniliitto.fi/www/fi/ti
 
 Miksi sillä on väliä, mitä ruokaa ravintoloissa tai kaupoissa myydään, voihan ruokaa tehdä itse kotona juuri niistä aineksista mitkä itse valitsee? Se on totta. Itselleni pääsyy siihen, etten juurikaan kokkaa kotona on se, että en yksinkertaisesti halua ja jaksa. Ruoanlaitto ei erityisemmin tuota minulle nautintoa, joten haluan käyttää siihen mahdollisimman vähän vapaa-aikaani. Ulkona syöminen taas toimii hyvänä vastapainona työlleni, jota teen pääasiassa kotoa käsin etätyönä. Etenkin lounaalla käyminen tarjoaa ruoan syömisen lisäksi mahdollisuuden päästä hieman ihmisten ilmoille.
 
+<figure>
+  <img src="/img/2005/vegaaninen_lounas.jpg" alt="Vegaaninen lounas" style="max-width:100%">
+  <figcaption>Joskus ihan peruslounasravintolastakin voi valita itselleen maukkaan, lämpimän ja vegaanisen ruoan. Kuvassa kasvishernekeittoa, monipuolinen salaattiannos ja ruisleipää kasvismargariinilla.</figcaption>
+</figure>
+
 Ruoan etiikassa vähemmällä huomiolla, ainakin arkisissa keskusteluissa on ihmisten välinen tasa-arvo. Jos kaikki maailman yli seitsemän miljardia ihmistä söisivät saman määrän lihaa kuin mitä itse vielä muutama vuosi sitten söin, olisiko se maapallon kantokyvyn puitteissa kestävällä pohjalla? Vastaus: ei olisi. Kulutamme jo nykyisin resursseja useamman kuin yhden maapallon edestä. Kun lasketaan kulutus per peppu, [eniten petrattavaa on meillä länsimaalaisilla](http://www.bbc.com/news/magazine-33133712){:target="_blank"}. (Linkin uutisessa puhutaan kulutuksesta yleisesti, mutta ruoantuotanto on iso osa kulutusta.)
 
 ## Lopuksi
