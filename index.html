@@ -1,8 +1,23 @@
 ---
 layout: default
 title: Joni Nousiainen
+keywords: joni, timo, johannes, nousiainen, jotijono, jouni, jani, java, spring, hibernate, sql, maven, tomcat, eclipse
 ---
-<p><a href="cv">Web CV</a></p>
-<p><a href="https://fi.linkedin.com/in/joninousiainen" target="_blank">LinkedIn &nbsp; <code>joninousiainen</code></a></p>
-<p><a href="https://twitter.com/JoniNous" target="_blank">Twitter &nbsp; <code>@JoniNous</code></a></p>
-<p><a href="https://github.com/joni-nousiainen" target="_blank">GitHub &nbsp; <code>joni-nousiainen</code></a></p>
+<h1>About Joni</h1>
+
+<p>Service manager and web developer at <a href="http://aitio.io/" target="_blank">Aitio Finland Oy</a></p>
+<p>Vegetarian food, clean energy and sustainable development enthusiast</p>
+<p>Hobby boulderer and casual guitarist</p>
+
+<h2>Links</h2>
+
+<p><a href="cv">Web CV (in English)</a></p>
+<p><a href="https://fi.linkedin.com/in/joninousiainen" target="_blank">LinkedIn</a></p>
+<p><a href="https://twitter.com/JoniNous" target="_blank">Twitter</a></p>
+<p><a href="https://github.com/joni-nousiainen" target="_blank">GitHub</a></p>
+
+<h2>Kirjoitukset</h2>
+
+{% for post in site.categories.fi %}
+<p><a href="{{ post.url }}">{{ post.date | date: "%F" }} &ndash; {{ post.title }}</a></p>
+{% endfor %}
