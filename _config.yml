@@ -10,6 +10,7 @@ defaults:
     values:
       layout: "post"
       author: "joni"
+      comments: true
 
 gems:
   - jekyll-feed

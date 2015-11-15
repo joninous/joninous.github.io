@@ -8,15 +8,22 @@
 
 <header>
     <h1>{{ page.title }}</h1>
-    <p>{{ page.date | date: "%F" }} {{ author.name }}</p>
+    <p>
+        {{ page.date | date: "%F" }}
+        {{ author.name }}
+        {% if jekyll.environment == "production" && page.comments %}
+        <a href="#disqus_thread"></a>
+        {%endif%}
+    </p>
 </header>
 
 {{ content }}
 
-
 <footer>
     <p>{{ author.name }}</p>
 </footer>
+
+{% include disqus.html %}
 
 <nav>
     <a href="/">Takaisin pääsivulle</a>
