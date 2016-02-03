@@ -21,4 +21,4 @@ Eli video on siis mahdollista saada alkaamaan tietystä kohtaa myös Areenassa! 
 
 Toivottavasti tästä tiedosta on iloa jollekulle samaa ominaisuutta kaipaavalle!
 
-Kyseinen mallilinkki johtaa muuten [Noin viikon uutiset -sarjan](http://yle.fi/aihe/noin-viikon-uutiset) viimeisimpään jaksoon. Suosittelen lämpimästi ajankohtaishuumorin ystäville! :)
+Kyseinen mallilinkki johtaa muuten [Noin viikon uutiset -sarjan](http://yle.fi/aihe/noin-viikon-uutiset){:target="_blank"} viimeisimpään jaksoon. Suosittelen lämpimästi ajankohtaishuumorin ystäville! :)
