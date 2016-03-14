@@ -1,3 +1,5 @@
+exclude: ['CNAME', 'Gemfile.lock', 'Gemfile', 'Guardfile', 'README.md']
+
 timezone: Europe/Helsinki
 
 permalink: /blog/:categories/:year/:month/:day/:title.html
