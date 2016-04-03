@@ -29,7 +29,7 @@ Haluan tässä välissä huomauttaa, että Ambroniten reseptiä on hieman kehite
 
 Avasin näytepakkauksen ja kaadoin sen ensin kulhoon tarkasteltavaksi ja kuvattavaksi. Jauhe on väriltään vihreänharmaata ja rakenteeltaan se melko hienojakoista. Kuvassa näkyvässä paakut hävisivät kevyellä sekoittamisella.
 
-Maistoin jauhetta hieman sellaisenaan, maku oli lähinnä – yllätys yllätys – jauhoinen. Maussa on kuitenkin myös aavistus makeutta sekä kuivattujen kasvien ja yrttien makua. Maistoin taannoin eräässä ravintolapäivässä kuivattuja kasveja ja yrttejä (mm. piharatamon ja nokkosen lehtiä), Ambronite sivumaku muistutti näitä.
+Maistoin jauhetta hieman sellaisenaan, maku oli lähinnä – yllätys yllätys – jauhoinen. Maussa on kuitenkin myös aavistus makeutta sekä kuivattujen kasvien ja yrttien makua. Maistoin taannoin eräässä ravintolapäivässä kuivattuja kasveja ja yrttejä (mm. piharatamon ja nokkosen lehtiä). Ambroniten sivumaku muistutti näitä.
 
 <figure>
   <img src="/img/2016/ambronite-jauhe.jpg" alt="Ambronite-juomajauhetta kupissa" style="max-width:100%">
@@ -51,7 +51,7 @@ Seassa on myös hieman sattumia, ehkä marjojen siemeniä tai jauhopaakkuja. Tä
 
 Kuvittelisin, että Ambronite voisi maistua paljon paremmin, jos sen sekoittaisi osaksi jotain perinteisempää ruokaa. Esimerkiksi hedelmäsmoothien tai pannukakkutaikinan sekaan. Ambroniten blogissa onkin tarjolla reseptejä ihmisille, jotka eivät sulata tuotetta sellaisenaan.
 
-En juo ihan kaikkea valmista juomaa vaan n. 0,5 l siitä. Säästän pienen osan avopuolisolle maistettavaksi. Vatsaan tulee vähän normaalia pienemmästä annoskoosta huolimatta hyvin pian juomisen jälkeen melko täysi olo. Ambronite mainostaa, että yksi annos voi pitää nälän loitolla jopa 4-5 tuntia. Tätä kirjoittaessani juomisesta on aikaa n. 2,5 tuntia ja oloni on edelleen melko kylläinen.
+En juo ihan kaikkea valmista juomaa vaan noin 0,5 l siitä. Säästän pienen osan avopuolisolle maistettavaksi. Vatsaan tulee vähän normaalia pienemmästä annoskoosta huolimatta hyvin pian juomisen jälkeen melko täysi olo. Ambronite mainostaa, että yksi annos voi pitää nälän loitolla jopa 4-5 tuntia. Tätä kirjoittaessani juomisesta on aikaa noin 2,5 tuntia ja oloni on edelleen melko kylläinen.
 
 ## Yhteenveto
 
