@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Joni Nousiainen
-keywords: joni, timo, johannes, nousiainen, jotijono, jouni, jani, java, spring, hibernate, sql, maven, tomcat, eclipse
+title: Joni Nousjärvi
+keywords: joni, timo, johannes, nousjärvi, nousiainen, jotijono, jouni, jani, java, javascript, spring, angular, hibernate, sql, maven, tomcat, eclipse
 ---
-<h1>About Joni</h1>
+<h1>About Joni Nousjärvi</h1>
 
 <p>Software developer at <a href="https://www.thl.fi/en" target="_blank">National Institute for Health and Welfare (THL)</a></p>
 <p>Vegetarian food, clean energy and sustainable development enthusiast</p>
@@ -12,9 +12,15 @@ keywords: joni, timo, johannes, nousiainen, jotijono, jouni, jani, java, spring,
 <h2>Links</h2>
 
 <p><a href="cv">Web CV (in English)</a></p>
-<p><a href="https://fi.linkedin.com/in/joninousiainen" target="_blank">LinkedIn</a></p>
+<p><a href="https://www.linkedin.com/in/joninousjarvi/" target="_blank">LinkedIn</a></p>
 <p><a href="https://twitter.com/JoniNous" target="_blank">Twitter</a></p>
-<p><a href="https://github.com/joni-nousiainen" target="_blank">GitHub</a></p>
+<p><a href="https://github.com/joninous" target="_blank">GitHub</a></p>
+
+<h2>Writings</h2>
+
+{% for post in site.categories.en %}
+<p><a href="{{ post.url }}">{{ post.date | date: "%F" }} &ndash; {{ post.title }}</a></p>
+{% endfor %}
 
 <h2>Kirjoitukset</h2>
 

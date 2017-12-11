@@ -3,7 +3,13 @@
 {% assign author = site.data.authors[page.author] %}
 
 <nav>
-    <a href="/">Takaisin pääsivulle</a>
+    <a href="/">
+        {% if page.categories contains "fi" %}
+        Takaisin pääsivulle
+        {% else %}
+        Back to home
+        {% endif %}
+    </a>
 </nav>
 
 <header>
@@ -12,8 +18,14 @@
         {{ page.date | date: "%F" }}
         {{ author.name }}
         {% if jekyll.environment == "production" and page.comments %}
-        <a href="#disqus_thread">Kommentit</a>
-        {%endif%}
+        <a href="#disqus_thread">
+            {% if page.categories contains "fi" %}
+            Kommentit
+            {% else %}
+            Comments
+            {% endif %}
+        </a>
+        {% endif %}
     </p>
 </header>
 
@@ -26,7 +38,13 @@
 {% include disqus.html %}
 
 <nav>
-    <a href="/">Takaisin pääsivulle</a>
+    <a href="/">
+        {% if page.categories contains "fi" %}
+        Takaisin pääsivulle
+        {% else %}
+        Back to home
+        {% endif %}
+    </a>
 </nav>
 
 {% include footer.html %}
