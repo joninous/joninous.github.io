@@ -21,7 +21,7 @@ Loppuosa ruokavaliostani koostuu kasvisperäisistä aineista. Alla on listattu n
 * rasvat: kasvismargariini, rypsi- ja oliiviöljy
 * muut sekalaiset: vitamiini- ja hivenainelisät purkista, yrtit, maustekastikkeet, oluthiiva
 
-Em. kaltaista ruokavaliota noudattavaa henkilöä voi kuvailla yksinkertaisesti sanalla: [pesko-lakto-ovo-vegetaristi](https://fi.wikipedia.org/wiki/Kasvissy%C3%B6nti#Kasvisruokavalioiden_variaatioita){:target="_blank"}.
+Em. kaltaista ruokavaliota noudattavaa henkilöä voi kuvailla yksinkertaisesti sanalla [pesko-lakto-ovo-vegetaristi](https://fi.wikipedia.org/wiki/Kasvissy%C3%B6nti#Kasvisruokavalioiden_variaatioita){:target="_blank"}.
 
 ## Miksi kasvisruokavalio?
 
@@ -37,7 +37,7 @@ Valitettavan usein saan lukea tai kuulla, ettei yksittäisen ihmisen ruokavaliov
 
 Olen itse aivan päinvastaista mieltä. Monesti yksilön oma, henkilökohtainen valinta on nimenomaan ainoa tapa vaikuttaa asioihin. Lisäksi pyrin omalla valinnallani lisäämään tietoisuutta aiheesta sekä tekemään kasvisruokavalion valinnasta laajemmin hyväksynnän kautta helpompaa myös muille, erityisesti omaan viiteryhmääni kuuluville.
 
-Oma ruokavalioni ei ole nykyisin lähelläkään täydellistä. Jääkaapista ja (lounas)ravintolaruoasta löytyy usein juustoa, jonka valmistus on hiilidioksidipäästöissä mitattuna lähes yhtä paha naudanlihan tuottaminen. Maitotuotteet yleisesti ottaen ovatkin ykkösasia "minkä syömistä minun tulisi vähentää" -listallani.
+Oma ruokavalioni ei ole nykyisin lähelläkään täydellistä. Jääkaapista ja (lounas)ravintolaruoasta löytyy usein juustoa, jonka valmistus on hiilidioksidipäästöissä mitattuna lähes yhtä paha kuin naudanlihan tuottaminen. Maitotuotteet yleisesti ottaen ovatkin ykkösasia "minkä syömistä minun tulisi vähentää" -listallani.
 
 Myös kasvisten joukosta löytyy enemmän tai vähemmän ympäristöystävällisiä vaihtoehtoja. Esimerkkejä: Riisin tuottaminen aiheuttaa huomattavasti enemmän metaanipäästöjä kuin muiden viljojen. Lähiruoan suosiminen on pääasiassa hyvä asia, mutta talvella kasvihuoneissa kasvatettujen vihannesten hiilijalanjälki on suuri, esimerkkinä kotimainen vs. espanjalainen kurkku. Vesiahneen mantelin kasvatus kuivuudesta kärsivässä Kaliforniassa on kyseenalaista. Itse pyrin huomioimaan em. mahdollisuuksien mukaan. Esimerkiksi kotiin en osta riisiä ollenkaan, ja lounaallakin sen voi usein korvata vaikkapa perunalla.
 
@@ -49,7 +49,7 @@ Kasvispainotteinen ruokavalio sisältää luonnostaan enemmän terveellisiä tyy
 
 Monipuolista kasvisruokavaliota noudattaen ja lihansyöntiä vähentäen ihminen [saa useimpia vitamiineja ja hivenaineita runsaammin](http://www.ruokatieto.fi/uutiset/reheva-kasvisruokavalio-hyvaksi-terveydelle-ja-ymparistolle){:target="_blank"}. Kuten em. artikkelissa todetaan, kasviksista saa mm. "enemmän C- ja E-vitamiinia, magnesiumia ja kaliumia sekä useita biokemiallisia yhdisteitä kuten flavonoideja ja karoteeneja".
 
-Kalan pitämistä ruokavaliossa kasvisten rinnalla puoltaa sen lukuisat [terveyshyödyt](http://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=skr00072&p_haku=100%20kysymyst%C3%A4%20ravinnosta){:target="_blank"}. Kaloista saatavasta rasvasta isompi osa on terveellisempää tyydyttymätöntä tyyppiä. Kaloista saa myös paljon D-vitaamina ja proteiinia. Kaloihin kertyvien ympäristömyrkkyjen vuoksi kalansyönnin kanssa ei kuitenkaan kannata mennä överiksi.
+Kalan pitämistä ruokavaliossa kasvisten rinnalla puoltaa sen lukuisat [terveyshyödyt](http://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=skr00072&p_haku=100%20kysymyst%C3%A4%20ravinnosta){:target="_blank"}. Kaloista saatavasta rasvasta isompi osa on terveellisempää tyydyttymätöntä tyyppiä. Kaloista saa myös paljon D-vitamiinia ja proteiinia. Kaloihin kertyvien ympäristömyrkkyjen vuoksi kalansyönnin kanssa ei kuitenkaan kannata mennä överiksi.
 
 Runsaan punaisen ja prosessoidun lihan syönnin on todettu lisäävän [suolisto- ja muiden ruoansulatuselimistöön liittyvien syöpien riskiä](http://www.hs.fi/ruoka/a1305913013094){:target="_blank"}. Riskiä voi toki pienentää jo lihansyöntiä vähentämällä vaikkei lihaa kokonaan ruokavaliostaan pois jättäisikään.
 
