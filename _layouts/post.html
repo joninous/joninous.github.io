@@ -2,38 +2,40 @@
 
 {% assign author = site.data.authors[page.author] %}
 
-<nav>
-    <a href="/">
-        {% if page.categories contains "fi" %}
-        Takaisin pääsivulle
-        {% else %}
-        Back to home
-        {% endif %}
-    </a>
-</nav>
-
 <header>
+    <nav>
+        <a href="/">
+            {% if page.categories contains "fi" %}
+            Takaisin pääsivulle
+            {% else %}
+            Back to home
+            {% endif %}
+        </a>
+    </nav>
+</header>
+
+<main>
     <h1>{{ page.title }}</h1>
-    <p>
+    <p class="author">
         {{ page.date | date: "%F" }}
         {{ author.name }}
     </p>
-</header>
-
-{{ content }}
+    {{ content }}
+</main>
 
 <footer>
-    <p>{{ author.name }}</p>
+    <p class="author">
+        {{ author.name }}
+    </p>
+    <nav>
+        <a href="/">
+            {% if page.categories contains "fi" %}
+            Takaisin pääsivulle
+            {% else %}
+            Back to home
+            {% endif %}
+        </a>
+    </nav>
 </footer>
-
-<nav>
-    <a href="/">
-        {% if page.categories contains "fi" %}
-        Takaisin pääsivulle
-        {% else %}
-        Back to home
-        {% endif %}
-    </a>
-</nav>
 
 {% include footer.html %}
