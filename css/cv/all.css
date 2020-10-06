@@ -1,76 +1,43 @@
-/*
-	General stuff
-*/
-
 * {
 	margin:0;
 	padding:0;
 }
 
 body {
-	max-width: 920px;
-	margin-left:auto;
-	margin-right:auto;
-	background-color:#fafafa;
-	font-family:Arial,sans-serif;
-	font-size:15pt;
+	padding-left:1em;
+	padding-right:1em;
+	background-color:#a00;
+	font-family:Verdana,Arial,sans-serif;
+	font-size:16pt;
+	line-height:1.2em;
 }
 
-div {
-	margin-bottom:1.2em;
-	padding:0 0.4em 0 0.2em;
+main {
+	padding:1em;
+	background-color:#fafafa;
+	max-width:65ch;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 p {
-	padding: 0.2em 0 0.2em 0;
+	margin-bottom:.4em;
 }
 
-/*
-	Headings
-*/
-
-h1, h2 {
-	font-family:Verdana,Arial;
+div {
+	margin-bottom:1em;
 }
 
 h1 {
-	padding:0.4em;
-	color:white;
-	background-color:#aa0000;
 	font-size:1.4em;
-	letter-spacing:0.15em;
 }
-
 h2 {
-	margin: 0.5em 0.2em 0.5em 0.2em;
-	color:#aa0000;
-	border-bottom:1px dotted black;
+	color:#a00;
 	font-size:1.2em;
 }
-
-/*
-	Tables
-*/
-
-table {
-	font-size:1em;
+h1, h2 {
+	margin-bottom:.6em;
 }
-
-th, td {
-	padding:0.2em;
-	vertical-align:top;
-	text-align:left;
-}
-
-th {
-	padding-left:0;
-	padding-right:0.8em;
-	font-weight:normal;
-}
-
-/*
-	Links
-*/
 
 a {
 	color:#aa0000;
@@ -78,46 +45,49 @@ a {
 }
 
 a:hover {
-	color:#ff0000;
+	color:#f00;
 }
 
-/*
-	Lists
-*/
-
-li {
-	margin-left:1.2em;
-	list-style-type:circle;
+small {
+	font-size:12pt;
 }
 
-/*
-	Specific styles
-*/
-
-div.organization {
-	font-weight:bolder;
-}
-div.position {
-	font-style:italic;
-}
-div.computerskill {
+.personal-info > p:nth-child(odd) {
+	margin-bottom:.1em;
 	font-weight:bold;
 }
-div.computerskill li {
-	font-weight:normal;
+
+div.organization {
+	font-style:italic;
+}
+div.position {
+	font-weight:bold;
 }
 div.language,
 div.link,
 div.other {
-	margin-bottom:0.2em;
+	margin-bottom:.2em;
 }
 div.time,
 div.organization,
 div.position,
 div.description
 {
-	margin-bottom:0.1em;
+	margin-bottom:.1em;
 }
 .oldish {
-	font-size: 0.8em;
+	font-size:.8em;
+}
+.no-break {
+	white-space:nowrap;
+}
+
+@media screen and (max-width: 400px) {
+
+	body {
+		font-size:14pt;
+		padding-left:0;
+		padding-right:0;
+	}
+
 }
