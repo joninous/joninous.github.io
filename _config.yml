@@ -14,5 +14,5 @@ defaults:
       author: "joni"
       comments: true
 
-gems:
+plugins:
   - jekyll-feed
